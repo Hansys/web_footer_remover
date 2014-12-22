@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_web_footer_remover_web_footer_remover,web_footer_remover.web_footer_remover,model_web_footer_remover_web_footer_remover,,1,0,0,0
